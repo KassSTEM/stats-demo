@@ -9,7 +9,6 @@ format:
     self-contained: true
     is-particlejs-enabled: true                          # Optional: display interactive particles in the document header
     bg-image: ""                                         # Optional: link to an image for the header background
-engine: knitr
 filters: 
   - webr
 execute:
